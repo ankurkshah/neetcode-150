@@ -1,4 +1,4 @@
-from S_01_arrays_and_hashing.Q_03_two_sum import Solution
+from _01_arrays_and_hashing._03_two_sum import Solution
 
 class TestSolution:
     def test_twoSum(self):

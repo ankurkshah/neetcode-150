@@ -1,4 +1,4 @@
-from S_01_arrays_and_hashing.Q_01_contains_duplicate import Solution
+from _01_arrays_and_hashing._01_contains_duplicate import Solution
 
 class TestSolution:
     def test_containsDuplicate(self):

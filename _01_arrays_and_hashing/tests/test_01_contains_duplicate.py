@@ -1,4 +1,4 @@
-from S_01_arrays_and_hashing.Q_02_valid_anagram import Solution
+from _01_arrays_and_hashing._02_valid_anagram import Solution
 
 class TestSolution:
     def test_isAnagram(self):
