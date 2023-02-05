@@ -4,5 +4,6 @@
     "python.testing.pytestArgs": [
         "_01_arrays_and_hashing",
         "_02_two_pointers",
+        "_03_sliding_windows",
     ]
 }
